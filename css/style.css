@@ -4,8 +4,8 @@ body {
 
 }
 button {
-  display: inline-block;
-  padding: 11px 50px;
+ 
+  padding: 1px;
   min-width: 150px;
   margin: 15px;
   font-size: 16px;
@@ -38,6 +38,6 @@ p {
   font-family: 'lato';
   font-size: 16px;
   font-weight: 200;
-  text-align: center;
+  
  
 }
